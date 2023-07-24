@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="410ded3d-4416-441d-87c6-6bb693e01d7d" name="Changes" comment="Open Tew Tab Ad Navigate to URL Using Keyboard Events" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FROtqHQ5Pse83nvZtIc9KVmIRB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/ihakim/git/repository2/OrangeAllureReport",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\src\test\java\BDD\Features" />
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\src\test\BDD" />
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\BDD" />
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\src\test\java" />
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\src\test" />
+      <recent name="C:\Users\ihakim\git\repository2\OrangeAllureReport\drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.OrangeHRM.pages" />
+      <recent name="BDD.Steps" />
+      <recent name="com" />
+      <recent name="Challenges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HandlingKeyboardEvents">
+    <configuration name="HandlingKeyboardEvents (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Challenges" />
+      <option name="MAIN_CLASS_NAME" value="Challenges.HandlingKeyboardEvents" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingKeyboardEvents (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Challenges" />
+      <option name="MAIN_CLASS_NAME" value="Challenges.HandlingKeyboardEvents" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingKeyboardEvents (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Challenges" />
+      <option name="MAIN_CLASS_NAME" value="Challenges.HandlingKeyboardEvents" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingKeyboardEvents" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Challenges" />
+      <option name="MAIN_CLASS_NAME" value="Challenges.HandlingKeyboardEvents" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingKeyboardEvents.testOpenRecruitementLinkUsingKeyboard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Challenges" />
+      <option name="MAIN_CLASS_NAME" value="Challenges.HandlingKeyboardEvents" />
+      <option name="METHOD_NAME" value="testOpenRecruitementLinkUsingKeyboard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HandlingKeyboardEvents" />
+        <item itemvalue="TestNG.HandlingKeyboardEvents.testOpenRecruitementLinkUsingKeyboard" />
+        <item itemvalue="TestNG.HandlingKeyboardEvents (1)" />
+        <item itemvalue="TestNG.HandlingKeyboardEvents (4)" />
+        <item itemvalue="TestNG.HandlingKeyboardEvents (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410ded3d-4416-441d-87c6-6bb693e01d7d" name="Changes" comment="" />
+      <created>1664451651380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664451651380</updated>
+      <workItem from="1664451653385" duration="1169000" />
+      <workItem from="1664453951681" duration="3019000" />
+      <workItem from="1664464587827" duration="1295000" />
+      <workItem from="1664466007417" duration="314000" />
+      <workItem from="1664466339934" duration="56000" />
+      <workItem from="1664468589582" duration="154000" />
+      <workItem from="1664469412728" duration="13076000" />
+      <workItem from="1664535114590" duration="76874000" />
+      <workItem from="1665299461271" duration="41953000" />
+      <workItem from="1665482706248" duration="1062000" />
+      <workItem from="1665485726209" duration="1722000" />
+      <workItem from="1665487475573" duration="254000" />
+      <workItem from="1665487758120" duration="10929000" />
+      <workItem from="1665563046314" duration="34431000" />
+      <workItem from="1665913714835" duration="7956000" />
+      <workItem from="1666698049003" duration="1326000" />
+      <workItem from="1667386862210" duration="4000" />
+      <workItem from="1667391126407" duration="75000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated to be integrated with Jenkins">
+      <created>1664455620560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664455620560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated to be integrated with Jenkins, Dynamic, MockGeoLocation,ExtentReport">
+      <created>1664483636482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664483636482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Challenges Of Scrippting ,(Login Through Cookies,DoubleClick,Iframes,KeyboardEvents,RightClick)">
+      <created>1664719272291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664719272291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="More Challenges">
+      <created>1664807432102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664807432102</updated>
+    </task>
+    <task id="LOCAL-00005" summary="More Challenges">
+      <created>1664807518191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664807518191</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Challenges + +">
+      <created>1664892285245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664892285245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MousHoverJS++">
+      <created>1664982135572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664982135572</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Calendar (Dropdown-DatePicker)">
+      <created>1665325110509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665325110509</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Calendar (Dropdown-DatePicker)">
+      <created>1665325126335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665325126335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="MasterChallenges(Broken Links + The Second Price )">
+      <created>1665395551436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665395551436</updated>
+    </task>
+    <task id="LOCAL-00011" summary="MasterChallenges(Broken Links + The Second Price )">
+      <created>1665396794475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665396794475</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BDD Cucumber ,&#10;Login Scenario With Data Driven .">
+      <created>1665569694359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665569694359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="handle flakiness ( inconsistent behavior or results/output ) of parallel execution of test automation.">
+      <created>1665661429810</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665661429810</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Localization Tests (English/Deutsch)">
+      <created>1665915254097</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665915254098</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Open Tew Tab Ad Navigate to URL Using Keyboard Events">
+      <created>1665918674859</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665918674859</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:io.qameta.allure:allure-java-commons" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update POM To be Integrated with Jenkins" />
+    <MESSAGE value="Updated to be integrated with Jenkins" />
+    <MESSAGE value="Updated to be integrated with Jenkins, Dynamic, MockGeoLocation,ExtentReport" />
+    <MESSAGE value="Challenges Of Scrippting ,(Login Through Cookies,DoubleClick,Iframes,KeyboardEvents,RightClick)" />
+    <MESSAGE value="More Challenges" />
+    <MESSAGE value="Challenges + +" />
+    <MESSAGE value="MousHoverJS++" />
+    <MESSAGE value="Calendar (Dropdown-DatePicker)" />
+    <MESSAGE value="MasterChallenges(Broken Links + The Second Price )" />
+    <MESSAGE value="BDD Cucumber ,&#10;Login Scenario With Data Driven ." />
+    <MESSAGE value="handle flakiness ( inconsistent behavior or results/output ) of parallel execution of test automation." />
+    <MESSAGE value="Localization Tests (English/Deutsch)" />
+    <MESSAGE value="Open Tew Tab Ad Navigate to URL Using Keyboard Events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Open Tew Tab Ad Navigate to URL Using Keyboard Events" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

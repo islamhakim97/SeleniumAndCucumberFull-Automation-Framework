@@ -1,0 +1,1 @@
+{"uuid":"235b958f-a451-4015-a410-e8841cf5da53","name":"OrangeAllureReport","children":["0b0a2b80-8f68-411f-8f3b-0b2406b192d1"],"befores":[{"name":"CreateAndStoreCookie","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1664782619501,"stop":1664782632349}],"afters":[],"start":1664782619475,"stop":1664782634399}

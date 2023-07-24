@@ -1,0 +1,1 @@
+{"uuid":"869926a4-0793-427c-af79-d1c5a16bcf6c","name":"BDD.Runner.TestRunner.setUp","children":["7f55f4bd-2c05-4fb0-a2a9-ee7406c3ac68"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665567337825,"stop":1665567339339}],"afters":[],"start":1665567337824,"stop":1665567339339}

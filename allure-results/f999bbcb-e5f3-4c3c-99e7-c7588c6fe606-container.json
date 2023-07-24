@@ -1,0 +1,1 @@
+{"uuid":"f999bbcb-e5f3-4c3c-99e7-c7588c6fe606","name":"OrangeAllureReport","children":["506ac129-b19f-49b5-a889-7839ea0a08e4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665912494495,"stop":1665912509442}],"afters":[],"start":1665912494452,"stop":1665912514634}
